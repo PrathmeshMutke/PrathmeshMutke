@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="210" height="300" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
-- 🌱 I’m currently learning **Software Development**
+- 🌱 I’m a **Software Developer**
 
 - 👨‍💻 All of my projects are available at [https://prathmeshmutke.github.io/](https://prathmeshmutke.github.io/)
 
